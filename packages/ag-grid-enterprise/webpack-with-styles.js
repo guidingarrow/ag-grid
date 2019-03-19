@@ -22,3 +22,4 @@ require('ag-grid-community/dist/styles/ag-theme-bootstrap.css');
 
 require('ag-grid-community/dist/styles/ag-theme-balham.css');
 require('ag-grid-community/dist/styles/ag-theme-balham-dark.css');
+require("ag-grid-community/dist/styles/md-dark-compact.css");
